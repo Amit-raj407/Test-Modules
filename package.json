@@ -1,0 +1,11 @@
+{
+  "name": "speed-test-app",
+  "version": "1.0.0",
+  "description": "Create a internet speed utility app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Raj",
+  "license": "ISC"
+}
